@@ -1,4 +1,4 @@
-package br.palmas.calculadora.model;
+package br.unitins.calculadora.model;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Named;

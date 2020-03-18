@@ -5,8 +5,8 @@ import java.io.Serializable;
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Named;
 
-import br.palmas.calculadora.model.Calculadora;
 import br.unitins.calculadora.application.Util;
+import br.unitins.calculadora.model.Calculadora;
 
 @Named
 @ApplicationScoped
